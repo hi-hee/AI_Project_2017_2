@@ -1,0 +1,5 @@
+model_checkpoint_path: "nn3"
+all_model_checkpoint_paths: "nn0"
+all_model_checkpoint_paths: "nn1"
+all_model_checkpoint_paths: "nn2"
+all_model_checkpoint_paths: "nn3"
